@@ -1,6 +1,7 @@
 # Kadodo
 
 Un réseau social scolaire (intranet) complet permettant aux étudiants, professeurs, modérateurs et administrateurs d'interagir dans un environnement académique sécurisé.
+<sub>Ce projet est un projet réaliser en groupe </sub>
 
 ## 📋 Table des matières
 
@@ -74,7 +75,7 @@ myschoolface/
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/Ltk-Mxz/kadodo.git
+git clone https://github.com/BelEricSOUROU/kadodo
 ```
 
 2. Copier les fichiers dans le dossier htdocs de XAMPP :
@@ -137,7 +138,7 @@ MIT License
 ## 📧 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à nous contacter :
-- Email : a96.paul96@gmail.com
+- Email : belericsourou@gmail.com
 
 ## Output
 ![1](mockup/1.png)
