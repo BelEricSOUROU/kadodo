@@ -1,7 +1,8 @@
 # Kadodo
+<sub>Ce projet est un projet réaliser en groupe </sub>
 
 Un réseau social scolaire (intranet) complet permettant aux étudiants, professeurs, modérateurs et administrateurs d'interagir dans un environnement académique sécurisé.
-<sub>Ce projet est un projet réaliser en groupe </sub>
+
 
 ## 📋 Table des matières
 
